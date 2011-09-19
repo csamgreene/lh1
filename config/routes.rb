@@ -1,4 +1,6 @@
 Lh1::Application.routes.draw do
+  get "pages/luxhome"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
